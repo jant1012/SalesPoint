@@ -1,0 +1,118 @@
+C:\Users\C1\AppData\Local\Temporary Projects\Final\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\C1\AppData\Local\Temporary Projects\Final\obj\x86\Debug\Final.Contraseña.resources
+C:\Users\C1\AppData\Local\Temporary Projects\Final\obj\x86\Debug\Final.Menup.resources
+C:\Users\C1\AppData\Local\Temporary Projects\Final\obj\x86\Debug\Final.Resources.resources
+C:\Users\C1\AppData\Local\Temporary Projects\Final\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\C1\AppData\Local\Temporary Projects\Final\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\C1\AppData\Local\Temporary Projects\Final\bin\Debug\Final.exe
+C:\Users\C1\AppData\Local\Temporary Projects\Final\bin\Debug\Final.pdb
+C:\Users\C1\AppData\Local\Temporary Projects\Final\bin\Debug\Final.xml
+C:\Users\C1\AppData\Local\Temporary Projects\Final\obj\x86\Debug\Final.exe
+C:\Users\C1\AppData\Local\Temporary Projects\Final\obj\x86\Debug\Final.xml
+C:\Users\C1\AppData\Local\Temporary Projects\Final\obj\x86\Debug\Final.pdb
+E:\Final\obj\x86\Debug\Final.exe
+E:\Final\obj\x86\Debug\Final.xml
+E:\Final\obj\x86\Debug\Final.pdb
+E:\Final\bin\Debug\Final.exe
+E:\Final\bin\Debug\Final.pdb
+E:\Final\bin\Debug\Final.xml
+E:\Final\obj\x86\Debug\Final.Contraseña.resources
+E:\Final\obj\x86\Debug\Final.Menup.resources
+E:\Final\obj\x86\Debug\Final.Resources.resources
+E:\Final\obj\x86\Debug\Final.Pprincipal.resources
+E:\Final\obj\x86\Debug\Final.Ventas.resources
+E:\Final\obj\x86\Debug\Final.Inventario.resources
+E:\Informática\Mabe\Tercer Semestre\Final\obj\x86\Debug\Final.exe
+E:\Informática\Mabe\Tercer Semestre\Final\obj\x86\Debug\Final.xml
+E:\Informática\Mabe\Tercer Semestre\Final\obj\x86\Debug\Final.pdb
+E:\Informática\Mabe\Tercer Semestre\Final\bin\Debug\Final.exe
+E:\Informática\Mabe\Tercer Semestre\Final\bin\Debug\Final.pdb
+E:\Informática\Mabe\Tercer Semestre\Final\bin\Debug\Final.xml
+E:\Informática\Mabe\Tercer Semestre\Final\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Informática\Mabe\Tercer Semestre\Final\obj\x86\Debug\Final.Contraseña.resources
+E:\Informática\Mabe\Tercer Semestre\Final\obj\x86\Debug\Final.Inventario.resources
+E:\Informática\Mabe\Tercer Semestre\Final\obj\x86\Debug\Final.Menup.resources
+E:\Informática\Mabe\Tercer Semestre\Final\obj\x86\Debug\Final.Resources.resources
+E:\Informática\Mabe\Tercer Semestre\Final\obj\x86\Debug\Final.Pprincipal.resources
+E:\Informática\Mabe\Tercer Semestre\Final\obj\x86\Debug\Final.Ventas.resources
+E:\Informática\Mabe\Tercer Semestre\Final\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Informática\Mabe\Tercer Semestre\Final\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Final\obj\x86\Debug\Final.exe
+F:\Final\obj\x86\Debug\Final.xml
+F:\Final\obj\x86\Debug\Final.pdb
+F:\Final\bin\Debug\Final.exe
+F:\Final\bin\Debug\Final.pdb
+F:\Final\bin\Debug\Final.xml
+F:\Final\obj\x86\Debug\Final.Contraseña.resources
+F:\Final\obj\x86\Debug\Final.Inventario.resources
+F:\Final\obj\x86\Debug\Final.Menup.resources
+F:\Final\obj\x86\Debug\Final.Resources.resources
+F:\Final\obj\x86\Debug\Final.Pprincipal.resources
+F:\Final\obj\x86\Debug\Final.Ventas.resources
+F:\Final\obj\x86\Debug\Final.vbproj.GenerateResource.Cache
+F:\Final\obj\x86\Debug\Final.Productonuevo.resources
+F:\Final\obj\x86\Debug\Final.Contraseñanormal.resources
+E:\Final\obj\x86\Debug\Final.Productonuevo.resources
+E:\Final\obj\x86\Debug\Final.Contraseñanormal.resources
+E:\Final\obj\x86\Debug\Final.Editar.resources
+E:\Final\obj\x86\Debug\Final.Reportes.resources
+E:\Final\obj\x86\Debug\Final.UsuarioNuevo.resources
+E:\Final\obj\x86\Debug\Final.ContraseñaAdmin.resources
+E:\Final\obj\x86\Debug\Final.vbproj.GenerateResource.Cache
+E:\Final\obj\x86\Debug\Final.CUsuarios.resources
+E:\Final\obj\x86\Debug\Final.UsuarioNuevoAdmin.resources
+E:\Final\obj\x86\Debug\Final.Ticket.resources
+F:\Final - Copy (2)\obj\x86\Debug\Final.exe
+F:\Final - Copy (2)\obj\x86\Debug\Final.xml
+F:\Final - Copy (2)\obj\x86\Debug\Final.pdb
+F:\Final - Copy (2)\bin\Debug\Final.exe
+F:\Final - Copy (2)\bin\Debug\Final.pdb
+F:\Final - Copy (2)\bin\Debug\Final.xml
+F:\Final - Copy (2)\obj\x86\Debug\Final.Contraseña.resources
+F:\Final - Copy (2)\obj\x86\Debug\Final.CUsuarios.resources
+F:\Final - Copy (2)\obj\x86\Debug\Final.Editar.resources
+F:\Final - Copy (2)\obj\x86\Debug\Final.Inventario.resources
+F:\Final - Copy (2)\obj\x86\Debug\Final.Reportes.resources
+F:\Final - Copy (2)\obj\x86\Debug\Final.UsuarioNuevoAdmin.resources
+F:\Final - Copy (2)\obj\x86\Debug\Final.Menup.resources
+F:\Final - Copy (2)\obj\x86\Debug\Final.Productonuevo.resources
+F:\Final - Copy (2)\obj\x86\Debug\Final.Resources.resources
+F:\Final - Copy (2)\obj\x86\Debug\Final.Pprincipal.resources
+F:\Final - Copy (2)\obj\x86\Debug\Final.ContraseñaAdmin.resources
+F:\Final - Copy (2)\obj\x86\Debug\Final.Contraseñanormal.resources
+F:\Final - Copy (2)\obj\x86\Debug\Final.Ticket.resources
+F:\Final - Copy (2)\obj\x86\Debug\Final.UsuarioNuevo.resources
+F:\Final - Copy (2)\obj\x86\Debug\Final.Ventas.resources
+F:\Final - Copy (2)\obj\x86\Debug\Final.vbproj.GenerateResource.Cache
+F:\Final - Copy (2)\obj\x86\Debug\Final.TicketFactura.resources
+E:\Final - Copy (2)\obj\x86\Debug\Final.exe
+E:\Final - Copy (2)\obj\x86\Debug\Final.xml
+E:\Final - Copy (2)\obj\x86\Debug\Final.pdb
+E:\Final - Copy (2)\bin\Debug\Final.exe
+E:\Final - Copy (2)\bin\Debug\Final.pdb
+E:\Final - Copy (2)\bin\Debug\Final.xml
+E:\Final - Copy (2)\obj\x86\Debug\Final.Contraseña.resources
+E:\Final - Copy (2)\obj\x86\Debug\Final.CUsuarios.resources
+E:\Final - Copy (2)\obj\x86\Debug\Final.Editar.resources
+E:\Final - Copy (2)\obj\x86\Debug\Final.Inventario.resources
+E:\Final - Copy (2)\obj\x86\Debug\Final.Reportes.resources
+E:\Final - Copy (2)\obj\x86\Debug\Final.UsuarioNuevoAdmin.resources
+E:\Final - Copy (2)\obj\x86\Debug\Final.Menup.resources
+E:\Final - Copy (2)\obj\x86\Debug\Final.Productonuevo.resources
+E:\Final - Copy (2)\obj\x86\Debug\Final.Resources.resources
+E:\Final - Copy (2)\obj\x86\Debug\Final.Pprincipal.resources
+E:\Final - Copy (2)\obj\x86\Debug\Final.ContraseñaAdmin.resources
+E:\Final - Copy (2)\obj\x86\Debug\Final.Contraseñanormal.resources
+E:\Final - Copy (2)\obj\x86\Debug\Final.Factura.resources
+E:\Final - Copy (2)\obj\x86\Debug\Final.Ticket.resources
+E:\Final - Copy (2)\obj\x86\Debug\Final.TicketFactura.resources
+E:\Final - Copy (2)\obj\x86\Debug\Final.UsuarioNuevo.resources
+E:\Final - Copy (2)\obj\x86\Debug\Final.Ventas.resources
+E:\Final - Copy (2)\obj\x86\Debug\Final.Cargando.resources
+E:\Final - Copy (2)\obj\x86\Debug\Final.vbproj.GenerateResource.Cache
+E:\Final\obj\x86\Debug\Final.Cargando.resources
+E:\Final\obj\x86\Debug\Final.Factura.resources
+E:\Final\obj\x86\Debug\Final.TicketFactura.resources
+C:\Users\Jesus\Desktop\Documentos\Viejo\Memoria\Final\obj\x86\Debug\Final.exe
+C:\Users\Jesus\Desktop\Documentos\Viejo\Memoria\Final\obj\x86\Debug\Final.xml
+C:\Users\Jesus\Desktop\Documentos\Viejo\Memoria\Final\obj\x86\Debug\Final.pdb
